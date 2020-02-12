@@ -1,5 +1,4 @@
-![alt text](https://github.com/SPM-OT/lab-2-ham/OntarioTechUniversity_lightBackgrounds.png "UniLogo")
-
+![alt text](https://github.com/SPM-OT/lab-2-ham/blob/master/OntarioTechUniversity_lightBackgrounds.png)
 ​												**Faculty of Engineering and Applied Science**
 
 ​															**Software Project Management**
