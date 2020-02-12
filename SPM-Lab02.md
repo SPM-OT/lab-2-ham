@@ -1,4 +1,4 @@
-![alt](https://github.com/SPM-OT/lab-2-ham/OntarioTechUniversity_lightBackgrounds.png)
+![alt text](https://github.com/SPM-OT/lab-2-ham/OntarioTechUniversity_lightBackgrounds.png "UniLogo")
 
 ​												**Faculty of Engineering and Applied Science**
 
